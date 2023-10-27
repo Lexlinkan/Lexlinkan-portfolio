@@ -268,7 +268,7 @@ export const Bio = {
         "Spotify Playback SDK",
       ],
       category: "web app",
-      github: "",
+      github: "https://github.com/Lexlinkan/Spotify-clone",
       webapp: "",
     },
     {
