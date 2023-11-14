@@ -253,7 +253,7 @@ export const Bio = {
   
   export const projects = [
     {
-      id: 9,
+      id: 0,
       title: "Spotify Clone",
       date: "Jun 2023 - Jul 2023",
       description:
@@ -272,11 +272,11 @@ export const Bio = {
       webapp: "",
     },
     {
-      id: 0,
+      id: 1,
       title: "Flag-App",
       date: "Jul 2023 - Aug 2023",
       description:
-        "I've developed a flag app using React, powered by a JavaScript framework and integrated with a dedicated API. This application offers users a simple and engaging way to explore flags from around the world. Users can search for flags, learn about their meanings, and discover interesting facts about different countries. The combination of React and the API allows for a responsive and dynamic user experience, making it an informative and enjoyable resource for flag enthusiasts and those interested in global cultures.",
+      "I've developed a flag app using React, powered by a JavaScript framework and integrated with a dedicated API. This application offers users a simple and engaging way to explore flags from around the world. Users can search for flags, learn about their meanings, and discover interesting facts about different countries. The combination of React and the API allows for a responsive and dynamic user experience, making it an informative and enjoyable resource for flag enthusiasts and those interested in global cultures.",
       image:
         "../../src/images/Flag-app.jpg",
       tags: ["React Js", "Node Js", "Express Js"],
@@ -285,29 +285,63 @@ export const Bio = {
       webapp: "https://flourishing-cucurucho-f91608.netlify.app/",
       member: [
         // {
-        //   name: "Rishav Chanda",
-        //   img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+          //   name: "Rishav Chanda",
+          //   img: "https://avatars.githubusercontent.com/u/64485885?v=4",
         //   linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
         //   github: "https://github.com/rishavchanda/",
         // },
       ],
     },
     {
-      id: 1,
+      id: 2,
       title: "Password Generator",
       date: "July 2023 - July 2023",
       description:
-        "I've created a robust password generator using JavaScript. This tool enables users to generate strong and secure passwords with ease. It offers customizable options, allowing users to tailor their passwords to meet specific requirements, such as length and character types. With this password generator, you can quickly create complex and unique passwords for enhanced online security. It's a valuable resource for safeguarding digital accounts and sensitive information.",
+      "I've created a robust password generator using JavaScript. This tool enables users to generate strong and secure passwords with ease. It offers customizable options, allowing users to tailor their passwords to meet specific requirements, such as length and character types. With this password generator, you can quickly create complex and unique passwords for enhanced online security. It's a valuable resource for safeguarding digital accounts and sensitive information.",
       image:
         "../../src/images/Password.png",
+        tags: [
+          "React",
+          "JavaScript",
+          "FlagApp API",
+        ],
+        category: "web app",
+        github: "https://github.com/Lexlinkan/Password-generator",
+      webapp: "https://lexlinkan-passwordgen.netlify.app/",
+    },
+    {
+      id: 3,
+      title: "AI-sum",
+      date: "Okt 2023",
+      description:
+        "I created a web application using React and integrated it with the Rapid API. Users can input a URL into the search box, and the application fetches content from the provided URL. Leveraging the Rapid API, the application generates a summary of the webpage or article, presenting the condensed information to the user. This project aims to offer users a quick and concise summary of the content they input, making it easier to extract key information from articles or webpages.",
+      image:
+        "../../src/images/AI-sum.png",
       tags: [
         "React",
         "JavaScript",
-        "FlagApp API",
+        "Rapid API",
       ],
       category: "web app",
-      github: "https://github.com/Lexlinkan/Password-generator",
-      webapp: "https://lexlinkan-passwordgen.netlify.app/",
+      github: "https://github.com/Lexlinkan/AI-sum",
+      webapp: "https://lexlinkan-aisum.vercel.app/",
+    },
+    {
+      id: 4,
+      title: "Menu",
+      date: "Sept 2023",
+      description:
+      "I recently developed a responsive menu application using React, JavaScript, and CSS. This application provides an efficient and user-friendly navigation experience. Leveraging the power of React, the menu dynamically adapts to various screen sizes, ensuring optimal usability across devices. The use of JavaScript enhances interactivity, while CSS styling contributes to a visually appealing and cohesive design. This project reflects a commitment to creating a modern and responsive user interface, catering to a seamless navigation experience for users on different devices.",
+      image:
+        "../../src/images/Manu.png",
+      tags: [
+        "React",
+        "JavaScript",
+        "CSS",
+      ],
+      category: "Web app",
+      github: "https://github.com/Lexlinkan/Menu-John-Smilga",
+      webapp: "https://lexlinkan-menu.vercel.app/",
     },
     // {
     //   id: 2,
