@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Bio } from "../../data/constants";
 import Typewriter from "typewriter-effect";
 import HeroBgAnimation from "../HeroBgAnimation/HeroBgAnimation";
-import HeroImg from "../../images/Selfp.jpg";
+import HeroImg from "../../assets/images/Selfp.jpg";
 
 export const HeroContainer = styled.div`
   background: ${({ theme }) => theme.card_light};
@@ -103,6 +103,7 @@ export const Img = styled.img`
   max-width: 400px;
   max-height: 400px;
   border-radius: 50%;
+  object-fit: cover;
   border: 2px solid ${({ theme }) => theme.primary};
 
   @media (max-width: 768px) {
