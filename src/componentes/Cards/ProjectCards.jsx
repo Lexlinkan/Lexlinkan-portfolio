@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import heroImg from "../../assets/images/Selfp.jpg"
 
 const Button = styled.button`
   display: none;
@@ -121,9 +122,10 @@ const Avatar = styled.img`
 `;
 
 const ProjectCards = ({ project, setOpenModal }) => {
+  
   return (
     <Card onClick={() => setOpenModal({ state: true, project: project })}>
-      <Image src={project.image} />
+      <img src={project?.image} />
       <Tags>
         {project.tags?.map((tag, index) => (
           <Tag>{tag}</Tag>
