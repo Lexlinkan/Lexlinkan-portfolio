@@ -259,7 +259,7 @@ export const Bio = {
       description:
         "DEMO IS COMING SOON! I developed a Spotify clone using React and JavaScript, integrating the Spotify API and Spotify Playback SDK. This project enables users to experience a music streaming platform similar to Spotify. With a responsive and user-friendly interface, it allows for searching, browsing, and playing music. The integration of the Spotify API provides access to a vast library of tracks and playlists, while the Playback SDK ensures a seamless listening experience. This project demonstrates my skills in full-stack development, API integration, and creating a compelling user interface for music enthusiasts.",
       image:
-        "/src/assets/images/Spotify.app.jpg",
+        "https://github.com/Lexlinkan/Lexlinkan-portfolio/blob/main/Port-images/Spotify.app.jpg",
       tags: [
         "React",
         "Typescript",
@@ -278,7 +278,7 @@ export const Bio = {
       description:
       "I've developed a flag app using React, powered by a JavaScript framework and integrated with a dedicated API. This application offers users a simple and engaging way to explore flags from around the world. Users can search for flags, learn about their meanings, and discover interesting facts about different countries. The combination of React and the API allows for a responsive and dynamic user experience, making it an informative and enjoyable resource for flag enthusiasts and those interested in global cultures.",
       image:
-        "/src/assets/images/Flag-app.jpg",
+        "https://github.com/Lexlinkan/Lexlinkan-portfolio/blob/main/Port-images/Flag-app.jpg",
       tags: ["React Js", "Node Js", "Express Js"],
       category: "web app",
       github: "https://github.com/Lexlinkan/Flagg-App",
@@ -299,7 +299,7 @@ export const Bio = {
       description:
       "I've created a robust password generator using JavaScript. This tool enables users to generate strong and secure passwords with ease. It offers customizable options, allowing users to tailor their passwords to meet specific requirements, such as length and character types. With this password generator, you can quickly create complex and unique passwords for enhanced online security. It's a valuable resource for safeguarding digital accounts and sensitive information.",
       image:
-        "/src/assets/images/Password.png",
+        "https://github.com/Lexlinkan/Lexlinkan-portfolio/blob/main/Port-images/Password.png",
         tags: [
           "React",
           "JavaScript",
@@ -316,7 +316,7 @@ export const Bio = {
       description:
         "I created a web application using React and integrated it with the Rapid API. Users can input a URL into the search box, and the application fetches content from the provided URL. Leveraging the Rapid API, the application generates a summary of the webpage or article, presenting the condensed information to the user. This project aims to offer users a quick and concise summary of the content they input, making it easier to extract key information from articles or webpages.",
       image:
-        "/src/assets/images/AI-sum.png",
+        "https://github.com/Lexlinkan/Lexlinkan-portfolio/blob/main/Port-images/AI-sum.png",
       tags: [
         "React",
         "JavaScript",
@@ -333,7 +333,7 @@ export const Bio = {
       description:
       "I recently developed a responsive menu application using React, JavaScript, and CSS. This application provides an efficient and user-friendly navigation experience. Leveraging the power of React, the menu dynamically adapts to various screen sizes, ensuring optimal usability across devices. The use of JavaScript enhances interactivity, while CSS styling contributes to a visually appealing and cohesive design. This project reflects a commitment to creating a modern and responsive user interface, catering to a seamless navigation experience for users on different devices.",
       image:
-        "/src/assets/images/Manu.png",
+        "https://github.com/Lexlinkan/Lexlinkan-portfolio/blob/main/Port-images/Manu.png",
       tags: [
         "React",
         "JavaScript",
