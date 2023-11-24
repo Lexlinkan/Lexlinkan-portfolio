@@ -15,7 +15,7 @@ export const Bio = {
       "I'm Alexander Lindqvist, a computer engineering grad specializing in full-stack development. I completed my studies at Techover Academy, where I gained a solid understanding of both front-end and back-end development, along with the latest tools and tech in the field.",
     github: "https://github.com/Lexlinkan",
     resume:
-      "https://lexlinkan-resume.netlify.app/",
+      "https://65610febaf5aa32b3098dcb6--joyful-mandazi-6176e8.netlify.app/",
     linkedin: "https://www.linkedin.com/in/alexander-lindqvist/",
     twitter: "https://twitter.com/Lexlinkan",
     insta: "https://www.instagram.com/lexlinkan/?hl=en",
