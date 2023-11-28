@@ -2,7 +2,7 @@ import aiLogo from '/src/assets/images/AI-sum.png'
 import flaggLogo from '/src/assets/images/Flag-app.jpg'
 import menuLogo from '/src/assets/images/Manu.png'
 import spotifyLogo from '/src/assets/images/Spotify.app.jpg'
-import passwordLogo from '/src/assets/images/Password.png'
+import nikeLogo from '/src/assets/images/nikeLogo.png'
 
 export const Bio = {
     name: "Alexander Lindqvist",
@@ -12,7 +12,7 @@ export const Bio = {
       "Programmer",
     ],
     description:
-      "I'm Alexander Lindqvist, a computer engineering grad specializing in full-stack development. I completed my studies at Techover Academy, where I gained a solid understanding of both front-end and back-end development, along with the latest tools and tech in the field.",
+      "I'm Alexander Lindqvist, a software developer grad specializing in full-stack development. I completed my studies at Techover Academy, where I gained a solid understanding of both front-end and back-end development, along with the latest tools and tech in the field.",
     github: "https://github.com/Lexlinkan",
     resume:
       "https://65610febaf5aa32b3098dcb6--joyful-mandazi-6176e8.netlify.app/",
@@ -300,20 +300,20 @@ export const Bio = {
     },
     {
       id: 2,
-      title: "Password Generator",
-      date: "July 2023 - July 2023",
+      title: "Nike Webpage Clone",
+      date: "Nov 2023",
       description:
-      "I've created a robust password generator using JavaScript. This tool enables users to generate strong and secure passwords with ease. It offers customizable options, allowing users to tailor their passwords to meet specific requirements, such as length and character types. With this password generator, you can quickly create complex and unique passwords for enhanced online security. It's a valuable resource for safeguarding digital accounts and sensitive information.",
+      "Absolutely! Your responsive web browser clone of Nike is a standout project that seamlessly blends modern technologies. By employing React for a dynamic and scalable frontend, JavaScript for interactive features, and Tailwind CSS for a polished and responsive design, you've crafted a user-friendly experience that adapts effortlessly to various devices. This combination of technologies not only ensures a visually appealing interface but also provides a smooth and engaging navigation experience. In summary, your web browser clone is a testament to your skillful integration of React, JavaScript, and Tailwind CSS, resulting in a responsive and stylish emulation of the Nike brand.",
       image:
-      passwordLogo,
+      nikeLogo,
         tags: [
           "React",
           "JavaScript",
-          "FlagApp API",
+          "TailwindCSS",
         ],
         category: "web app",
-        github: "https://github.com/Lexlinkan/Password-generator",
-      webapp: "https://lexlinkan-passwordgen.netlify.app/",
+        github: "hhttps://github.com/Lexlinkan/nike-clone",
+      webapp: "https://nike-clone-ochre.vercel.app/",
     },
     {
       id: 3,
